@@ -1,5 +1,5 @@
-# **Hello, I'm Andreza Cardoso 👋**
-*Estudante de Engenharia de Software e Secretariado Executivo*
+## **Hello, I'm Andreza Cardoso 👋**
+Estudante de Engenharia de Software e Secretariado Executivo
 
 ---
 
@@ -14,5 +14,5 @@
 
 ---
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrezacrds&show_icons=true&theme=omni)
