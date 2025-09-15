@@ -1,7 +1,6 @@
 ## **Hello, I'm Andreza Cardoso 👋**
 *Estudante de Engenharia de Software e Secretariado Executivo*
 
----
 
 ### 📝 Sobre mim
 - 👩🏻 24 anos  
