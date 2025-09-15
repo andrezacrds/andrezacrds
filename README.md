@@ -1,6 +1,5 @@
 ## **Hello, I'm Andreza Cardoso 👋**
 *Estudante de Engenharia de Software e Secretariado Executivo*
-
 <br>
 
 ### 📝 Sobre mim
