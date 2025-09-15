@@ -10,8 +10,6 @@
 - 🎓 Apaixonada por tecnologia e aprendizado constante  
 - 💻 Estudando programação, linguagens e frameworks  
 - 🌱 Sempre buscando crescer profissionalmente  
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/andrezacrds) 
-
 
 
 ### 📊 Estatísticas
