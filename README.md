@@ -3,7 +3,7 @@
 <br>
 
 ### 📝 Sobre mim
-- 👩🏻 24 anos  
+- 👩🏻 25 anos  
 - 🎓 Apaixonada por tecnologia e aprendizado constante  
 - 💻 Estudando programação, linguagens e frameworks  
 - 🌱 Sempre buscando crescer profissionalmente  
